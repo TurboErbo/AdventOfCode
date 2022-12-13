@@ -1,0 +1,2 @@
+build --copt=--std=c++2a
+common --experimental_enable_bzlmod

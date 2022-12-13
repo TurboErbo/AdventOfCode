@@ -1,0 +1,12 @@
+load("//:aoc.bzl", "aoc_binaries")
+
+# cc_binary(
+#     name = "day1",
+#     srcs = ["aoc.cpp"],
+#     deps = ["//2023/cpp:day1"],
+#     args = ["2023", "1"],
+#     data = glob(["2023/data/1*.txt"]),
+# )
+
+#aoc_binary(2023, 1)
+aoc_binaries(2023)

@@ -1,0 +1,19 @@
+#include <string>
+#include "utilities.hpp"
+
+#include <vector>
+#include <string>
+
+class Solution
+{
+public:
+    std::string part1(const std::vector<std::string> &lines)
+    {
+        return "";
+    }
+
+    std::string part2(const std::vector<std::string> &lines)
+    {
+        return "";
+    }
+};
